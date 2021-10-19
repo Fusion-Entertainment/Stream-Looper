@@ -20,15 +20,6 @@
     Change the mp4 with youre by placing youre video file in the Media Folder (Socials)
     And rename you file to (Socials.mp4)
 
-    OR
-
-    Change the mp4 with youre by placing youre video file in the Media Folder (Sponsers)
-    And rename you file to (Sponser.mp4)
-
-    Same for any other Media source
-
-    Change the mp4 with youre by placing youre video file in the Media Folder (Other)
-    And rename you file to (Webcamframe.mp4)
 
     this needs to be exacly like here or it will not work
 
