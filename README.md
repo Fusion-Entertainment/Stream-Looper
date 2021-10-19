@@ -1,4 +1,6 @@
 # Stream-Looper
+
+ <img src="img/StreamLooper.png" height="600" width="400">
  
 # HOW TO INSTALL Stream-Looper
 
