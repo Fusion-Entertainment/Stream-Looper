@@ -11,13 +11,18 @@
 4. add a (Color key) to the source with the color you whant to remove (the background coller of the MP4)
 5. add you own video in one of the media folders 
 
-    change the mp4 with youre by placing youre video file in the Media Folder (Socials)
+    Change the mp4 with youre by placing youre video file in the Media Folder (Socials)
     And rename you file to (Socials.mp4)
 
     OR
 
-    change the mp4 with youre by placing youre video file in the Media Folder (Sponsers)
+    Change the mp4 with youre by placing youre video file in the Media Folder (Sponsers)
     And rename you file to (Sponser.mp4)
+
+    Same for any other Media source
+
+    Change the mp4 with youre by placing youre video file in the Media Folder (Other)
+    And rename you file to (Webcamframe.mp4)
 
     this needs to be exacly like here or it will not work
 
