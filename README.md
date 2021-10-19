@@ -1,6 +1,12 @@
 # Stream-Looper
 
  <img src="/StreamLooper.png" height="600" width="400">
+
+
+# COMING SOON IN DEVELOPEMENT
+
+1.  Sponser Banner Support
+2.  Animated Webcamframe Support
  
 # HOW TO INSTALL Stream-Looper
 
