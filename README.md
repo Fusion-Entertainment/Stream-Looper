@@ -7,7 +7,16 @@
 
 1.  Sponser Banner Support
 2.  Animated Webcamframe Support
+
+
+# Beta v0.003 (HOTFIX)
+
+    Fixed the bug that made the media not looping
+
+    Please remove the old resources from you streaming software and add the updated ones to be sure the all work
  
+ ========================================================
+
 # HOW TO INSTALL Stream-Looper
 
 1. Unpack the zip file
