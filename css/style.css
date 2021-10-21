@@ -1,4 +1,18 @@
 *{
-    padding: 0;
-    margin: 0;
+ padding: 0;
+ margin: 0;
+overflow: hidden;
+}
+
+
+#social{
+    position: absolute;
+    z-index: -1;
+}
+
+#sponsers{
+    position: relative;
+    padding-top: 700px;
+    padding-left: 1300px;
+    z-index: 1;
 }

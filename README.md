@@ -3,7 +3,30 @@
  <img src="/StreamLooper.png" height="600" width="400">
 
 
-# COMING SOON IN DEVELOPEMENT
+
+
+# COMING IN BETA v0.005
+
+1. Image support
+2. Twitch chat intergration
+
+
+
+
+# Beta v0.004
+
+1. Sponser Banners are now supported (shows in the bottom side of the screen by default)
+more options will be added at a later date
+
+2. Fixed some small buggs and cleaned up some errors
+
+3. Animated Webcamframe Support
+
+4. removed the Social.mp4 from the default package so you dont run my ad on youre stream by accident
+
+
+
+# COMING IN BETA v0.004
 
 1.  Sponser Banner Support
 2.  Animated Webcamframe Support
