@@ -97,10 +97,8 @@ more options will be added at a later date
         Ogrinal Timer: ONLY CHANGE THE VALUE INSITE THE SPAN LIKE HERE ITS DAYS 
                                    <span>days</span>;
 
-
-      Removed Timer Text: If you whant to remove it all you have to do is remove the test inside the span like this 
+        Removed Timer Text: If you whant to remove it all you have to do is remove the test inside the span like this 
                                    <span></span>;
-
 
 
 
