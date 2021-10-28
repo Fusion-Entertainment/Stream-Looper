@@ -88,18 +88,18 @@ more options will be added at a later date
          you open the Timer.html and chance the next parts to youre liking or just remove the text (NOT THE CODE)
 
 
-#        Ogrinal Main Title:      <h1>Stream Looper's Event Timer </h1>
+        Ogrinal Main Title:      <h1>Stream Looper's Event Timer </h1>;
 
 
-#        Changed Main Title:      <h1>New Merch Drop Coming In</h1>
+        Changed Main Title:      <h1>New Merch Drop Coming In</h1>;
 
 
-#        Ogrinal Timer: ONLY CHANGE THE VALUE INSITE THE SPAN LIKE HERE ITS DAYS 
-#                                    <span>days</span>
+        Ogrinal Timer: ONLY CHANGE THE VALUE INSITE THE SPAN LIKE HERE ITS DAYS 
+                                   <span>days</span>;
 
 
-#      Removed Timer Text: If you whant to remove it all you have to do is remove the test inside the span like this 
-#                                            <span></span>
+      Removed Timer Text: If you whant to remove it all you have to do is remove the test inside the span like this 
+                                            <span></span>;
 
 
  ========================================================
