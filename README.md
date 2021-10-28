@@ -7,7 +7,7 @@
 1. Added a count down timer so you can show when you have a new event / merch release / sponser stream
  or anny upcomming events 
 
- read the Docu on how to change the Date of the timer
+ read the Docu at the buttom of this page on how to change the Date of the timer
  / change or remove the text displayed 
 
 2. clean up the folder structure to be more organized 
