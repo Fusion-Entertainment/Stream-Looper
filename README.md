@@ -1,4 +1,4 @@
-# Stream-Looper Beta v.0.004
+# Stream-Looper Beta v.0.005
 
  <img src="/StreamLooper.png" height="600" width="400">
 
