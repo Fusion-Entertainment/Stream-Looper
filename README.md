@@ -99,7 +99,9 @@ more options will be added at a later date
 
 
       Removed Timer Text: If you whant to remove it all you have to do is remove the test inside the span like this 
-                                            <span></span>;
+                                   <span></span>;
+
+
 
 
  ========================================================
