@@ -5,7 +5,7 @@ const secondsEl = document.getElementById('seconds');
 
 
 
-const countDownTimer = '1 jan 2022';
+const countDownTimer = '24 jan 2022';
 
 function countdown() {
     const countDownTimerDate = new Date(countDownTimer);

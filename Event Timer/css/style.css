@@ -6,7 +6,7 @@
 
 body{
     background-color: rgb(2, 180, 2);
-    font-family: 'Poppins', sans-serif;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
     align-items: center;
    
     flex-direction: column;
@@ -17,14 +17,14 @@ body{
 
 h1{
     font-weight: normal;
-    color: black;
+    color: rgb(202, 5, 5);
     font-size: 4rem;
     margin-top: 15rem;
 }
 
 .countdown-container{
     display: flex;
-    color: black;
+    color: rgb(32, 148, 3);
     font-size: 1rem;
     flex-wrap: wrap;
     align-items: center;
@@ -32,7 +32,7 @@ h1{
 }
 
 .big-text{
-    font-size: 5rem;
+    font-size: 4rem;
     line-height: 1;
     margin: 0 2rem;
 }

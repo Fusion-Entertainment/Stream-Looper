@@ -1,7 +1,17 @@
-# Stream-Looper Beta v.0.005
+# Stream-Looper v0.006 Christmass Update
 
- <img src="/StreamLooper.png" height="600" width="400">
+ <img src="examples/StreamLooper.png" height="600" width="400">
 
+
+# Beta v0.006 Christmass Update
+
+1. Added a snow effect same setup as every other resource
+
+2. Added a animated Season win Text to show of youre season win in what every game you play 
+
+Example:
+
+<img src="examples/Season-win-Example.png" height="600" width="800">
 
 # Beta v0.005
 1. Added a count down timer so you can show when you have a new event / merch release / sponser stream
