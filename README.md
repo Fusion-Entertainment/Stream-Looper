@@ -3,6 +3,14 @@
  <img src="examples/StreamLooper.png" height="600" width="400">
 
 
+
+
+# Beta v0.006.1 Extra Christmass Update
+
+1. Added a Starting soon and break time (be right back )
+overlay 
+
+
 # Beta v0.006 Christmass Update
 
 1. Added a snow effect same setup as every other resource
@@ -12,6 +20,7 @@
 Example:
 
 <img src="examples/Season-win-Example.png" height="600" width="800">
+
 
 # Beta v0.005
 1. Added a count down timer so you can show when you have a new event / merch release / sponser stream
