@@ -1,21 +1,26 @@
-# Stream-Looper v0.006 Christmass Update
+# Stream-Looper v0.007 Update
 
  <img src="examples/StreamLooper.png" height="600" width="400">
 
 
+Beta v0.006.1 Extra Christmass Update
 
 
-# Beta v0.006.1 Extra Christmass Update
+# Beta v0.007 Update
 
-1. Added a Starting soon and break time (be right back )
-overlay 
+1.Added the support for Apex Legends Stream Banners
+
+
 
 
 # Beta v0.006 Christmass Update
 
-1. Added a snow effect same setup as every other resource
+1. Added a Starting soon and break time (be right back )
+overlay 
 
-2. Added a animated Season win Text to show of youre season win in what every game you play 
+2. Added a snow effect same setup as every other resource
+
+3. Added a animated Season win Text to show of youre season win in what every game you play 
 
 Example:
 
