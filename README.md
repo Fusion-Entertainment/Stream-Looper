@@ -3,13 +3,9 @@
  <img src="examples/StreamLooper.png" height="600" width="400">
 
 
-Beta v0.006.1 Extra Christmass Update
-
-
 # Beta v0.007 Update
 
 1.Added the support for Apex Legends Stream Banners
-
 
 
 
