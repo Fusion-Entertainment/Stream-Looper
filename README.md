@@ -1,6 +1,18 @@
-# Stream-Looper v0.007 Update
+# Stream Looper v0.008 Update
 
  <img src="examples/StreamLooper.png" height="600" width="400">
+
+
+# Beta v0.008 Update
+
+1.Cleaned Up some code
+
+2.Added more options like:
+starting soon screen 
+Be Right Back screen
+Webcam background (for greenscreen users)
+
+3.Changed the social media and sponser popups to use there own file instead of baked in to 1
 
 
 # Beta v0.007 Update

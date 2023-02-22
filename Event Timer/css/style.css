@@ -17,14 +17,14 @@ body{
 
 h1{
     font-weight: normal;
-    color: rgb(202, 5, 5);
+    color: rgba(4, 247, 186, 0.534);
     font-size: 4rem;
     margin-top: 15rem;
 }
 
 .countdown-container{
     display: flex;
-    color: rgb(32, 148, 3);
+    color: rgb(228, 225, 225);
     font-size: 1rem;
     flex-wrap: wrap;
     align-items: center;
